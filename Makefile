@@ -1,7 +1,7 @@
 
 prg := daytimeclient daytimeclient2 daytimeserver \
 	daytimeserver2 daytimeserver3 daytimeserver4 \
-	daytimeserver5
+	daytimeserver5 mycat openfile
 
 CFLAGS := -g -Wall -Wno-unused-function
 
